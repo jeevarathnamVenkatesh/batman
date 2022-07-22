@@ -1,0 +1,129 @@
+*{
+  font-family:Helvetica;
+  background:grey;
+  margin:0;
+}
+h1{
+  text-align:center;
+  background:black;
+  color:pink;
+  text-decoration:underline;
+}
+.image{
+  border-radius:100px;
+  margin:10px;
+  object-fit:contain;
+  height:200px;
+}
+.imageContainer{
+  display:flex;
+  justify-content:center;
+}
+.para{
+  font-size:medium;
+  font-style:italic;
+  padding:30px;
+  line-height:20px;
+  margin:auto;
+  margin-top:20px;
+  background:black;
+  border-radius:60px;
+  text-align:center;
+  color:white;
+}
+h2{
+  text-align:center;
+  margin-top:20px;
+  color:white;
+}
+h3{
+  color:blue;
+  margin-top:30px;
+  text-decoration:underline;
+}
+.linkVideo{
+  margin-top:20px;
+}
+.secondlinkVideo{
+  margin-top:10px;
+}
+h4{
+  margin-top:20px;
+  font-style:italic;
+}
+.youtubeVideo{
+  text-align:center;
+  margin-top:20px;
+}
+  h5{
+ margin-top:20px;
+    font-style:italic;
+    text-align:center;
+    color:pink;
+}
+.newsPaper{
+  margin-top:20px;
+}
+  .fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+.fa:hover {
+  opacity: 0.7;
+}
+.fa-facebook {
+  background: #3B5998;
+  color: white;
+  margin:10px;
+}
+.fa-twitter {
+  background: #55ACEE;
+  color: white;
+  margin:10px;
+}
+.fa-whatsapp{
+  background:#25D366;
+  color:white;
+  margin:10px;
+}
+.fa-linkedin{
+  background:#0077b5;
+  color:white;
+  margin:10px;
+}
+h6{
+  margin-top:20px;
+  color:white;
+}
+.footerContainer{
+  background-color:black;
+  padding:20px:
+}
+button{
+  display:flex;
+  margin:auto;
+  padding:12px;
+  font-family:Helvetica;
+  font-weight:500;
+  font-size:12px;
+  background-color:red;
+  color:white;
+  border:none;
+  margin-bottom:30px;
+  padding-left:30px;
+  padding-right:30px;
+  outline:none;
+  margin-top:30px;
+  border-radius:100px;
+}
+.footerPara{
+  background-color:transparent;
+  text-align:center;
+  color:white;
+  font-size:small;
+  margin-top:50px;
+  font-weight:300;
+}
